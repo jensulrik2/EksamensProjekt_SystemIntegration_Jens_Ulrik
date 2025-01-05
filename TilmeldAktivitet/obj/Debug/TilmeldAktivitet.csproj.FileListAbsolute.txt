@@ -1,0 +1,6 @@
+C:\Users\judes\RiderProjects\Eksamens Projekt SystemIntegration Jens Ulrik\TilmeldAktivitet\bin\Debug\TilmeldAktivitet.exe
+C:\Users\judes\RiderProjects\Eksamens Projekt SystemIntegration Jens Ulrik\TilmeldAktivitet\bin\Debug\TilmeldAktivitet.pdb
+C:\Users\judes\RiderProjects\Eksamens Projekt SystemIntegration Jens Ulrik\TilmeldAktivitet\obj\Debug\TilmeldAktivitet.csproj.AssemblyReference.cache
+C:\Users\judes\RiderProjects\Eksamens Projekt SystemIntegration Jens Ulrik\TilmeldAktivitet\obj\Debug\TilmeldAktivitet.csproj.CoreCompileInputs.cache
+C:\Users\judes\RiderProjects\Eksamens Projekt SystemIntegration Jens Ulrik\TilmeldAktivitet\obj\Debug\TilmeldAktivitet.exe
+C:\Users\judes\RiderProjects\Eksamens Projekt SystemIntegration Jens Ulrik\TilmeldAktivitet\obj\Debug\TilmeldAktivitet.pdb

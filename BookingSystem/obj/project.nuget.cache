@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "5bDkv29fi88=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\judes\\RiderProjects\\Eksamens Projekt SystemIntegration Jens Ulrik\\BookingSystem\\BookingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\judes\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\judes\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\judes\\.nuget\\packages\\msmq.messaging\\1.0.4\\msmq.messaging.1.0.4.nupkg.sha512",
+    "C:\\Users\\judes\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\judes\\.nuget\\packages\\system.directoryservices\\4.7.0\\system.directoryservices.4.7.0.nupkg.sha512",
+    "C:\\Users\\judes\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\judes\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.7.0\\system.io.filesystem.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\judes\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\judes\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\judes\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\judes\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package MSMQ.Messaging 1.0.4 is not compatible with net45 (.NETFramework,Version=v4.5). Package MSMQ.Messaging 1.0.4 supports:\r\n  - net461 (.NETFramework,Version=v4.6.1)\r\n  - netstandard2.0 (.NETStandard,Version=v2.0)",
+      "libraryId": "MSMQ.Messaging",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.5"
+      ]
+    }
+  ]
+}
